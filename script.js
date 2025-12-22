@@ -16,7 +16,7 @@ const slides = [
   { img: "gif/10.gif", text: "Makasii yaa sudah kuat dan bertahan sejauh ini" },
   { img: "gif/2.gif", text: "Aku bangga banget sama kamu" },
   { img: "gif/11.gif", text: "Semoga kedepannya kita bisa terus bareng-bareng" },
-  { img: "gif/12.gif", text: "I love you sayangkuu M. Zaenudin Zuhri 💙" }
+  { img: "gif/12.gif", text: "I love you sayangkuuuuuu M. Zaenudin Zuhri ❤️" }
 ];
 
 let index = 0;
@@ -62,3 +62,4 @@ function showSlide() {
     }
   }, 45);
 }
+
