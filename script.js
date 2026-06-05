@@ -4,19 +4,19 @@ const nextBtn = document.getElementById("nextBtn");
 
 /* SLIDE DATA */
 const slides = [
-  { img: "gif/1.gif", text: "Halloo gantengkuu 💛" },
+  { img: "gif/1.gif", text: "Halloo Yurimichi 💛" },
   { img: "gif/2.gif", text: "Kamu tau nggak hari ini hari apa?" },
   { img: "gif/3.gif", text: "Yaaapp, hari spesialnya sayangku yang paling ganteng" },
-  { img: "gif/4.gif", text: "HBD sayangku, cintakuu, gantengkuu" },
+  { img: "gif/4.gif", text: "HBD Yurimichi ❤️ },
   { img: "gif/5.gif", text: "Di ulang tahunmu ini, berdoa banyak banyak yaa" },
   { img: "gif/6.gif", text: "Aku juga selalu ikut doain kamu dari sini" },
   { img: "gif/7.gif", text: "Semoga kamu jadi pribadi yang lebih baik, lebih dewasa, dan lebih bahagia lagi ke depannya" },
-  { img: "gif/8.gif", text: "Sayangku harus panjang umur, sehat terus, dan jangan sering cape-cape yaaa" },
+  { img: "gif/8.gif", text: "Yurimichi harus panjang umur, sehat terus, dan jangan sering cape-cape yaaa" },
   { img: "gif/9.gif", text: "Aku maunya kamu selalu baik-baik aja" },
-  { img: "gif/10.gif", text: "Makasii yaa sudah kuat dan bertahan sejauh ini" },
-  { img: "gif/2.gif", text: "Aku bangga banget sama kamu" },
-  { img: "gif/11.gif", text: "Semoga kedepannya kita bisa terus bareng-bareng" },
-  { img: "gif/12.gif", text: "I love you sayangkuuuuuu M. Zaenudin Zuhri ❤️" }
+  { img: "gif/10.gif", text: "Makasii yaa sudah mau mabar dengan aku heheh 😅" },
+  { img: "gif/2.gif", text: "Aku seneng aja gitu heheh😅" },
+  { img: "gif/11.gif", text: "Semoga kedepannya kita bisa terus Mabar yah" },
+  { img: "gif/12.gif", text: "Pokoknya Sehat2 ya kak Yurimichi ❤️" }
 ];
 
 let index = 0;
