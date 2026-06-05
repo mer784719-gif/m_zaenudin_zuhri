@@ -7,7 +7,7 @@ const slides = [
   { img: "gif/1.gif", text: "Halloo Yurimichi 💛" },
   { img: "gif/2.gif", text: "Kamu tau nggak hari ini hari apa?" },
   { img: "gif/3.gif", text: "Yaaapp, hari spesialnya sayangku yang paling ganteng" },
-  { img: "gif/4.gif", text: "HBD Yurimichi ❤️ },
+  { img: "gif/4.gif", text: "HBD Yurimichi" ❤️ },
   { img: "gif/5.gif", text: "Di ulang tahunmu ini, berdoa banyak banyak yaa" },
   { img: "gif/6.gif", text: "Aku juga selalu ikut doain kamu dari sini" },
   { img: "gif/7.gif", text: "Semoga kamu jadi pribadi yang lebih baik, lebih dewasa, dan lebih bahagia lagi ke depannya" },
